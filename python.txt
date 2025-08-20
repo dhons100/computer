@@ -1,0 +1,10 @@
+# This script is meant to calculate the average of a list of numbers
+def calculate_average(numbers):
+    total = 0
+    for i in range(numbers)
+        total += i
+    average = total / len(number)
+    return averge
+
+nums = [10, 20, 30, 40, 50]
+print("The average is: " + calculate_average(nums))
